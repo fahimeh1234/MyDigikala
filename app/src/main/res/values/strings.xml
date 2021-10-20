@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyDigikala</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Send">Send</string>
+    <string name="Comment">Comment</string>
+    <string name="UserName">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="general_error">Error</string>
+
+    <string name="not_found">Not found</string>
+
+    <string name="token_expire_login_again">Token expire</string>
+
+    <string name="connection_error">connection Error</string>
+
+    <string name="timeout">Timeout</string>
+
+    <string name="popular">محبوب ترین ها</string>
+</resources>
